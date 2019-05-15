@@ -16,6 +16,7 @@
   * [TALK](PC/File%20Formats/TALK.md)
   * [UCC](PC/File%20Formats/UCC.md)
   * [UpdateList](PC/File%20Formats/UpdateList.md)
+
 ## PSP
 
 * File Formats
