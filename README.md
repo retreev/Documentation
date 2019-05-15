@@ -1,4 +1,4 @@
 # Welcome!
 
-Welcome to https://docs.pangya.golf, your space for technical documentation all around Pangya!
+Welcome to _Pangya! Documentation_, your space for technical documentation all around the discontinued multiplayer online golf-game Pangya by Ntreev Soft.
 
