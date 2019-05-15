@@ -7,7 +7,7 @@ The TALK file format is used by Pangya to define what a caddie will say/do in ce
 The file structure of TALK files is really simple. Every line contains a definition of an event, a numeric value \(like in MOTs probably a behaviour/motion\), and a text.
 
 ```text
-
+[event]:[value]:[text]
 ```
 
 Example \(from `cadie.talk`\):
