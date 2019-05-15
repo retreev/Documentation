@@ -1,6 +1,6 @@
-# QST - `*.qst`
+# QST
 
-The QST (Quest) file format is a dialogue format containing information of the event-split story dialogue of Pangya: Fantasy Golf for the PSP.
+The QST \(Quest\) file format is a dialogue format containing information of the event-split story dialogue of Pangya: Fantasy Golf for the PSP.
 
 ## File Structure
 
@@ -24,3 +24,4 @@ public struct QSTDialogue
 **Note:** I only made assumptions about `CharacterID` and `Position`. Both of these values change with who's speaking and the current line of text, so it's not easy to make out what exactly they are for.
 
 After this structure, there are 8 additional bytes of data, which sometimes are completely empty or contain bytes at random positions. I haven't figured out what they are there for yet. I just skipped them in `PangLib.PSP.QST`.
+

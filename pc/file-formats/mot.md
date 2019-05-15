@@ -1,8 +1,8 @@
-# MOT - `*.mot`
+# MOT
 
-The MOT (Motion) file format seems to be related to defining motions of a Pangya caddie.
+The MOT \(Motion\) file format seems to be related to defining motions of a Pangya caddie.
 
-The file name of a MOT file is the shortname of the caddie, also found in the IFF definition (e.g. `bon` for Papel).
+The file name of a MOT file is the shortname of the caddie, also found in the IFF definition \(e.g. `bon` for Papel\).
 
 ## File Structure
 
@@ -10,7 +10,7 @@ MOT files don't contain a lot of data, but it seems they contain a value tied to
 
 Most caddies have following content in their MOT file:
 
-```
+```text
 2:달리기    // Running
 1:기다리기  // Waiting
 1:재촉하기  // Prompting
@@ -20,4 +20,5 @@ Most caddies have following content in their MOT file:
 0:찬스     // Chance
 ```
 
-This is still to be investigated, but maybe the numeric value defines behaviour on that event happening, and `0` simply disabling it, as for Papel (`bon`) every single value is `0`.
+This is still to be investigated, but maybe the numeric value defines behaviour on that event happening, and `0` simply disabling it, as for Papel \(`bon`\) every single value is `0`.
+

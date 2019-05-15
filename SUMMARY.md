@@ -4,25 +4,23 @@
 
 ## PC
 
-* File Formats
-  * [DAT](PC/File%20Formats/DAT.md)
-  * [IFF](PC/File%20Formats/IFF.md)
-  * [MOT](PC/File%20Formats/MOT.md)
-  * [PAK](PC/File%20Formats/PAK.md)
-  * [SEQ](PC/File%20Formats/SEQ.md)
-    * [Reference](PC/File%20Formats/SEQ/Reference.md)
-  * [SPR](PC/File%20Formats/SPR.md)
-    * [Reference](PC/File%20Formats/SPR/Reference.md)
-  * [TALK](PC/File%20Formats/TALK.md)
-  * [UCC](PC/File%20Formats/UCC.md)
-  * [UpdateList](PC/File%20Formats/UpdateList.md)
+* [File Formats](pc/file-formats/README.md)
+  * [DAT](pc/file-formats/dat.md)
+  * [IFF](pc/file-formats/iff.md)
+  * [MOT](pc/file-formats/mot.md)
+  * [PAK](pc/file-formats/pak.md)
+  * [SEQ](pc/file-formats/seq/README.md)
+    * [Reference](pc/file-formats/seq/reference.md)
+  * [SPR](pc/file-formats/spr/README.md)
+    * [Reference](pc/file-formats/spr/reference.md)
+  * [TALK](pc/file-formats/talk.md)
+  * [UCC](pc/file-formats/ucc.md)
+  * [UpdateList](pc/file-formats/updatelist.md)
 
 ## PSP
 
-* File Formats
-  * [NOP](PSP/File%20Formats/NOP.md)
-  * [PAK](PSP/File%20Formats/PAK.md)
-  * [QST](PSP/File%20Formats/QST.md)
-
-## Wii
+* [File Formats](psp/file-formats/README.md)
+  * [NOP](psp/file-formats/nop.md)
+  * [PAK](psp/file-formats/pak.md)
+  * [QST](psp/file-formats/qst.md)
 
