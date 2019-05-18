@@ -9,6 +9,7 @@
   * [IFF](pc/file-formats/iff.md)
   * [MOT](pc/file-formats/mot.md)
   * [PAK](pc/file-formats/pak.md)
+  * [PET](pc/file-formats/pet.md)
   * [SEQ](pc/file-formats/seq/README.md)
     * [Reference](pc/file-formats/seq/reference.md)
   * [SPR](pc/file-formats/spr/README.md)
