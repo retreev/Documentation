@@ -9,7 +9,7 @@ Puppet files exist in many different variations, which usually contain the same 
 * `pet`: Regular Puppet File
 * `apet`: Animation Puppet File
 * `bpet`: Bone Puppet File
-* `mpet`: Mesh Puppet File
+* `mpet`: Motion Puppet File
 
 ## File Structure
 
