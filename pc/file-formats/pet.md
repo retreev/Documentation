@@ -219,6 +219,8 @@ struct BoneInformation
 }
 ```
 
+A minimum of two bones must be read per `Vertex`.
+
 **Polygons**
 
 A unsigned integer determines the amount of polygons the mesh has, for this amount you read the following structure:
@@ -230,6 +232,8 @@ struct Polygon
   byte TextureIndex;
 }
 ```
+
+Note that the `TextureIndex` byte is read afterwards in the **Texture Index** section.
 
 **Polygon Indices**
 
